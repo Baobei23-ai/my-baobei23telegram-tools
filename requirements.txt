@@ -1,5 +1,4 @@
-python-telegram-bot[job-queue]
-rembg
-deep-translator
-
-numba>=0.60.0 
+python-telegram-bot==20.8
+pandas
+openpyxl
+python-dotenv
